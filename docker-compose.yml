@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  api_server:
+    build: .
+    command: python3 src/manage.py runserver 0.0.0.0:8080
+    volumes:
+      - .:/live_project
+    ports:
+      - "8080:8080"
+
