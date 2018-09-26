@@ -37,7 +37,7 @@ def get_client_ip(request):
 def api_home(request, param=None):
     """
     Logging of request and Validation should be at Middleware Level
-    implementing just basics
+    implementing the basics
     """
 
     logger.info('Request IP: %s, Browser: %s' % (get_client_ip(request), request.META['HTTP_USER_AGENT']))
