@@ -35,6 +35,7 @@ Head to browser for accesing API
 http://localhost:8080/one
 ```
 
-If you have any doubts, please drop a message
+That's it! Done :) 
+If you have any doubts, drop a message!
 
 
