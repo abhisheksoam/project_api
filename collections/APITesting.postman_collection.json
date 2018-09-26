@@ -1,0 +1,178 @@
+{
+  "info": {
+    "_postman_id": "83604ff9-1639-4ab2-9ef2-8cd70174bf09",
+    "name": "APITesting",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "1",
+      "request": {
+        "auth": {
+          "type": "noauth"
+        },
+        "method": "GET",
+        "header": [],
+        "body": {},
+        "url": {
+          "raw": "http://localhost/one/",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8080",
+          "path": [
+            "one",
+            ""
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "2",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {},
+        "url": {
+          "raw": "http://localhost/ten/",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8080",
+          "path": [
+            "ten",
+            ""
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "3",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {},
+        "url": {
+          "raw": "http://localhost/three/3456/",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8080",
+          "path": [
+            "three",
+            "3456",
+            ""
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "4",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {},
+        "url": {
+          "raw": "http://localhost/fifty/",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8080",
+          "path": [
+            "fifty",
+            ""
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "5",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {},
+        "url": {
+          "raw": "http://localhost/five",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8080",
+          "path": [
+            "five"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "6",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {},
+        "url": {
+          "raw": "http://localhost/hundred",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8080",
+          "path": [
+            "hundred"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "7",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {},
+        "url": {
+          "raw": "http://localhost/123/hun",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8080",
+          "path": [
+            "123",
+            "hun"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "8",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "body": {},
+        "url": {
+          "raw": "http://localhost/twenty",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8080",
+          "path": [
+            "twenty"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
